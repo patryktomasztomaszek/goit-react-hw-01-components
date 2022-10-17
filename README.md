@@ -5,4 +5,4 @@
 [https://github.com/goitacademy/react-homework/blob/master/homework-01/README.pl.md](https://github.com/goitacademy/react-homework/blob/master/homework-01/README.pl.md)
 
 ## Użyte technologie
-** HTML 5 | CSS/SCSS | React **
+**HTML 5 | CSS/SCSS | React**
