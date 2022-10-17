@@ -6,3 +6,7 @@
 
 ## Użyte technologie
 **HTML 5 | CSS/SCSS | React**
+
+
+## Wersja OnLine pracy domowej
+[https://patryktomasztomaszek.github.io/goit-react-hw-01-components/](https://patryktomasztomaszek.github.io/goit-react-hw-01-components/)
