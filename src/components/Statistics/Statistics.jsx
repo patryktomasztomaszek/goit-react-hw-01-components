@@ -4,7 +4,6 @@ import styles from './Statistics.module.scss';
 import { getRandomColor } from '../../utils/getRandomColor';
 
 function Statistics({ title = null, statsData }) {
-  console.log(getRandomColor);
 
   const {
     statistics,
