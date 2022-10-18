@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import styles from './Statistics.module.scss';
-import { getRandomColor } from '../utils/getRandomColor.js';
+import { getRandomColor } from '../../utils/getRandomColor';
 
 function Statistics({ title = null, statsData }) {
   console.log(getRandomColor);
